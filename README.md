@@ -1,7 +1,7 @@
 # Aplikacja do Quizów - CodersLab Zadanie Rekrutacyjne
 
 ## Opis
-To jest przykładowy plik README.md dla zadania rekrutacyjnego do kursu CodersLab, które polega na stworzeniu aplikacji do obsługi quizów. Projekt ma na celu przetestowanie umiejętności związanych z programowaniem w Spring Boot oraz korzystaniem z zewnętrznego API do pobierania pytań.
+Projekt, który polega na stworzeniu aplikacji do obsługi quizów. Projekt ma na celu przetestowanie umiejętności związanych z programowaniem w Spring Boot oraz korzystaniem z zewnętrznego API do pobierania pytań.
 
 ## Funkcjonalności
 Aplikacja posiada następujące główne funkcjonalności:
